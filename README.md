@@ -1,2 +1,1 @@
-# power-gym
-Welcome to Power Gym, the ultimate fitness destination built for your growth and success. From the moment you arrive, you’ll notice we’ve designed every detail with you in mind. Our homepage welcomes you with a bold and dynamic hero section that immediately inspires action. Whether you’re a seasoned athlete or just beginning your fitness journey
+In Power gym You get a welcoming environment, top-notch equipment, and dedicated trainers who are there every step of the way. Whether you're just starting out or you're a seasoned athlete, Power Gym is all about helping you reach your best."
